@@ -1,0 +1,125 @@
+{
+    "basics": {
+      "name": "Yannick Armoogum",
+      "label": "Développeur Full-stack",
+      "image": "",
+      "email": "yannickbdt123@gmail.com",
+      "phone": "+330784759855",
+      "url": "https://johndoe.com",
+      "summary": "Aussi bien capable de coder sur la partie front que back, J'arrive à développer durant toute la chaîne de développement d’une application ou d’un site web. Je suis quelque aussi de très versatile car j'ai développer sur plusieurs languages durant ma jeune carrière notamment en C# , Python et React Native. Je suis aussi un adepte du clean code  car  j'essaie de développer au maximun en TDD, d'appliquer les design patterns et des best practices comme les SOLID principles.",
+      "location": {
+        "address": "34 rue de châteaudun",
+        "postalCode": "94200",
+        "city": "Ivry-Sur-Seine",
+        "countryCode": "FR",
+        "region": "Ile-de-France"
+      },
+      "profiles": [{
+        "network": "Linkedin",
+        "username": "Yannick Armoogum",
+        "url": "https://www.linkedin.com/in/yannick-armoogum-5610b9a0/"
+      }]
+    },
+    "work": [{
+      "name": "Proximity BBDO Indian Ocean",
+      "position": "Software Engineer",
+      "url": "https://www.hangarworldwide.com/",
+      "startDate": "2017-11-01",
+      "endDate": "2019-11-12",
+      "summary": "Construction des plateformes web pour le compte du groupe Mars Petcare Europe agissant en tant que back-end durant les sprints de développements et basculant en tant que front-end durant les phases SIT et UAT. Technologies et Frameworks Utilisées: C# , .Net Framework 4.7, SQL , PUG, SASS, GIT, Entity Framework, Azure ",
+      "highlights": [
+        "Participation à la création de l'architécture de la solution, Développement de fonctionalités complexes, Intégration du Salesforce SDK, Automatisation des tâches avec Powershell, Géstion du git , Point de contacte technique des brand managers."
+      ]
+    },
+    {
+        "name": "Company",
+        "position": "President",
+        "url": "https://company.com",
+        "startDate": "2013-01-01",
+        "endDate": "2014-01-01",
+        "summary": "Description…",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+
+],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "description": "Description…",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "keywords": [
+        "HTML"
+      ],
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "url": "https://project.com/",
+      "roles": [
+        "Team Lead"
+      ],
+      "entity": "Entity",
+      "type": "application"
+    }]
+  }
